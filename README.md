@@ -57,4 +57,4 @@ This project contains a **Power BI dashboard** for analyzing sales performance a
 ## 🧑‍💻 Author
 
 **Nancy Khaled** – Machine Learning Engineer & Power BI Developer  
-LinkedIn: [Nancy Khaled](https://www.linkedin.com/in/nancy-khaled)  
+LinkedIn: [Nancy Khaled](https://www.linkedin.com/in/nancy-amer?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
